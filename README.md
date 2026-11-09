@@ -1,5 +1,16 @@
 # Ecommerce-product-recommendation-system
 
+## Run the notebooks
+
+| Notebook | Open |
+|---|---|
+| Complete walkthrough: all three approaches | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhi-0404/E-commerce-product-recommendation-system/blob/main/ECommerce_Product_Recommendation_System.ipynb) |
+| Rank-based recommendations (cold start) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhi-0404/E-commerce-product-recommendation-system/blob/main/rank_based_product_recommendation.ipynb) |
+| User-based collaborative filtering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhi-0404/E-commerce-product-recommendation-system/blob/main/User_based_collaborative_filtering.ipynb) |
+| Model-based collaborative filtering (SVD) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhi-0404/E-commerce-product-recommendation-system/blob/main/Model_based_collaborative_filtering.ipynb) |
+
+Each notebook opens in Google Colab with one click. Add the Amazon ratings CSV (linked under Dataset) to the Colab session to re-run it.
+
 Product Recommendation System is a machine learning-based project that provides personalized product recommendations to users based on their browsing and purchase history. The system utilizes collaborative filtering and content-based filtering algorithms to analyze user behavior and generate relevant recommendations. This project aims to improve the overall shopping experience for users, increase sales for e-commerce businesses
 
 ## Dataset
